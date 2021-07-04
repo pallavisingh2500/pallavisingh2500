@@ -1,4 +1,4 @@
-# Hey, I'm [Pallavi Singh]! 👋
+# Hey, I'm Pallavi Singh! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shi-wal&label=Views&color=blue&style=plastic" alt="shi-wal" /> </p>
 
